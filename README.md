@@ -1,16 +1,12 @@
-# user_app
+# User Data Fetcher
 
-A new Flutter project.
+## Description
 
-## Getting Started
+This project demonstrates how to fetch User data from an API endpoint, parse JSON responses, and map them to a model. It includes a simple user interface with a button to initiate the data fetch process.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Fetch User data using HTTP.
+- Parse JSON responses and map them to an `User` model.
+- Display fetched data in a structured format.
+- make advanced UI
